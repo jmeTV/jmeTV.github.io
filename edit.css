@@ -1,16 +1,14 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/base.svgz);
+    background: url(Assets/base.svg);
     height: 630px;
     width: 750px;
     margin-left: -375px;
     margin-top: -285px;
 }
-.custom.white{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz);
-}
+
 .custom.disconnected {
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/disconnected.svgz);
+    background: url(Assets/disconnected.svg);
 }
 .custom.disconnected div {
     display: none;
@@ -92,7 +90,7 @@
     left: 306px;
 }
 .custom .back, .custom .start{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/start-select.svgz);
+    background: url(Assets/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -116,7 +114,7 @@
 }
 .custom .button{
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/abxy.svgz);
+    background: url(Assets/abxy.svg);
     width: 48px;
     height: 48px;
 }
