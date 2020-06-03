@@ -1,81 +1,81 @@
-.controller.edit {
+.custom.controller {
   background: url(Assets/base.svg);
 }
 
-.edit.disconnected {
+.custom.disconnected {
   background: url(Assets/disconnected.svg);
 }
 
-.edit .quadrant {
+.custom .quadrant {
   display: none;
 }
 
-.edit .p0 {
+.custom .p0 {
     display: none;
 }
 
-.edit .p1 {
+.custom .p1 {
     display: none;
 }
 
-.edit .p2 {
+.custom .p2 {
     display: none;
 }
 
-.edit .p3 {
+.custom .p3 {
     display: none;
 }
 
-.edit .back, .edit .start {
+.custom .back, .custom .start {
     background: url(Assets/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
 }
 
-.edit .back.pressed, .edit .start.pressed {
+.custom .back.pressed, .custom .start.pressed {
     opacity: 1;
 }
 
-.edit .back {
+.custom .back {
     float: left;
 }
 
-.edit .start {
+.custom .start {
     background-position: 33px 0px;
     float: right;
 }
 
-.edit .button {
+.custom .button {
   position: absolute;
   background: url(Assets/abxy.svg);
 }
 
-.edit .button.pressed {
+.custom .button.pressed {
     background-position-y: -48px;
     margin-top: 5px;
     opacity: 1;
 }
 
-.edit .a {
+.custom .a {
     background-position: 0 0;
     top: 108px;
     left: 55px;
 }
 
-.edit .b {
+.custom .b {
     background-position: -49px 0;
     top: 57px;
     right: 3px;
 }
 
-.edit .x {
+.custom .x {
     background-position: -98px 0;
     top: 57px;
     left: 4px;
 }
 
-.edit .y {
+.custom .y {
     background-position: 48px 0;
     left: 55px;
     top: 5px;
