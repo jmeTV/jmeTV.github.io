@@ -22,7 +22,7 @@
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/trigger.svgz);
+    background: url(Assets/trigger.svgz);
     opacity: 0;
 }
 .custom .trigger.left{
@@ -36,7 +36,7 @@
 .custom .bumper{
     width: 170px;
     height: 61px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/bumper.svgz);
+    background: url(Assets/bumper.svgz);
     opacity: 0;
 }
 .custom .bumpers{
@@ -59,7 +59,7 @@
 }
 .custom .quadrant{
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/quadrant.svgz);
+    background: url(Assets/quadrant.svgz);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -152,7 +152,7 @@
 }
 .custom .stick{
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/stick.svgz);
+    background: url(Assets/stick.svgz);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -176,7 +176,7 @@
     left: 223px;
 }
 .custom .face{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/dpad.svgz);
+    background: url(Assets/dpad.svgz);
     position: absolute;
     opacity: 0;
 }
