@@ -35,7 +35,6 @@
 
 .custom .trigger.right{
     float: right;
-    transform: rotateY(180deg);
 }
 
 .custom .bumper{
