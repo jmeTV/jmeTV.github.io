@@ -13,27 +13,27 @@
 .custom.disconnected div {
     display: none;
 }
+
 .custom .triggers{
     width: 44px;
     height: 121px;
     position: absolute;
     left: 152px;
 }
+
 .custom .trigger{
     width: 88px;
     height: 121px;
     background: url(Assets/trigger.svgz);
     opacity: 0;
 }
+
 .custom .trigger.left{
     float: left;
     background-position:0 0;
 }
 
 .custom .trigger.right{
-    float: right;
-    left: 800px;
-    top: 129px;
     transform: rotateY(180deg);
 }
 
