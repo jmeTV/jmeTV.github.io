@@ -32,6 +32,8 @@
 
 .custom .trigger.right{
     float: right;
+    left: 107px;
+    top: 129px;
     transform: rotateY(180deg);
 }
 
