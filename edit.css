@@ -14,13 +14,6 @@
     display: none;
 }
 
-.custom .triggers{
-    width: 44px;
-    height: 121px;
-    position: absolute;
-    left: 152px;
-}
-
 .custom .trigger{
     width: 88px;
     height: 121px;
