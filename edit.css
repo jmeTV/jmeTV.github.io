@@ -34,6 +34,7 @@
 }
 
 .custom .trigger.right{
+    transform: rotateY(180deg);
     float: right;
 }
 
