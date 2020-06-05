@@ -30,6 +30,10 @@
     background-position:0 0;
 }
 
+.custom .trigger.right{
+    transform: rotateY(180deg);
+}
+
 .custom .bumper{
     width: 170px;
     height: 61px;
