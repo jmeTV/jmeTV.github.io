@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    background: url(Assets/base.svg);
+    background: url(RGB/Assets/base.svg);
     height: 630px;
     width: 750px;
     margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(Assets/disconnected.svg);
+    background: url(RGB/Assets/disconnected.svg);
 }
 .custom.disconnected div {
     display: none;
@@ -24,7 +24,7 @@
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(Assets/trigger.svgz);
+    background: url(RGB/Assets/trigger.svgz);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .custom .bumper{
     width: 170px;
     height: 61px;
-    background: url(Assets/bumper.svgz);
+    background: url(RGB/Assets/bumper.svgz);
     opacity: 0;
 }
 .custom .bumpers{
@@ -71,7 +71,7 @@
     left: 306px;
 }
 .custom .back, .custom .start{
-    background: url(Assets/start-select.svg);
+    background: url(RGB/Assets/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -133,7 +133,7 @@
 }
 .custom .stick{
     position: absolute;
-    background: url(Assets/stick.svgz);
+    background: url(RGB/Assets/stick.svgz);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -157,7 +157,7 @@
     left: 223px;
 }
 .custom .face{
-    background: url(Assets/dpad.svgz);
+    background: url(RGB/Assets/dpad.svgz);
     position: absolute;
     opacity: 0;
 }
